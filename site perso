@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
+      rel="stylesheet"
+    />
+
+    <title>Louis Papot - Etudiant en Cybersécurité</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css" />
+    <link rel="stylesheet" href="assets/css/templatemo-style.css" />
+    <link rel="stylesheet" href="assets/css/owl.css" />
+    <link rel="stylesheet" href="assets/css/lightbox.css" />
+  </head>
+
+  <body>
+    <div id="page-wraper">
+      <!-- Sidebar Menu -->
+      <div class="responsive-nav">
+        <i class="fa fa-bars" id="menu-toggle"></i>
+        <div id="menu" class="menu">
+          <i class="fa fa-times" id="menu-close"></i>
+          <div class="container">
+            <div class="image">
+              <a href="#"><img src="assets/images/IMG-20220120-WA0003.jpg" alt="" /></a>
+            </div>
+            <div class="author-content">
+              <h4>Louis Papot</h4>
+              <span>Etudiant en Cybersécurité</span>
+            </div>
+            <nav class="main-nav" role="navigation">
+              <ul class="main-menu">
+                <li><a href="#section1">À propos de moi</a></li>
+                <li><a href="#section2">Portfolio</a></li>
+                <li><a href="#section3">Mes aptitudes</a></li>
+                <li><a href="#section4">Mes Passions</a></li>
+                <li><a href="#section5">Contactez-moi</a></li>
+              </ul>
+            </nav>
+            <div class="social-network">
+              <h6>« La liberté commence là où <br>l’ignorance finit »</h6>
+              <h6>Victor Hugo</h6>
+            <!--<div class="social-network">
+              <ul class="soial-icons">
+                <li>
+                  <a href=""
+                    ><i class="fa fa-instagram"></i
+                  ></a>
+                </li>
+                <li>
+                  <a href="#"><i class="fa fa-twitter"></i></a>
+                </li>
+                <li>
+                  <a href="#"><i class="fa fa-linkedin"></i></a>
+                </li>
+                <li>
+                  <a href="#"><i class="fa fa-dribbble"></i></a>
+                </li>
+                <li>
+                  <a href="#"><i class="fa fa-rss"></i></a>
+                </li>
+              </ul>
+            </div>-->
+          </div>
+        </div>
+      </div>
+
+      <section class="section about-me" data-section="section1">
+        <div class="container">
+          <div class="section-heading">
+            <h2>À propos de moi</h2>
+            <div class="line-dec"></div>
+            <span
+              >Je suis actuellement en 1re année de Réseaux et Télécoms et projette d'entrer en école d'ingénieurs en cybersécurité. </span
+            >
+          </div>
+          <div class="left-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/20171218153630-polytech-sophia-web.jpg" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <h4>Réseaux et Télécom à Sophia-antipolis</h4>
+                  <p>
+                    Je suis actuellement en première année de R&T au sein de l'université Nice Côte d'Azur.
+                    Nous y apprenons à mettre en place des réseaux d'entreprises, de la programmation, ainsi que de la cybersécurité.
+                    Pour plus de renseignements sur cette formation je vous invite à cliquer sur le bouton juste en-dessous.
+                  </p>
+                  <div class="white-button">
+                    <a target="_blank" href="https://www.iut-rt.tk/">Voir plus</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-text">
+                  <h4>Ecole d'ingénieurs en Cybersécurité</h4>
+                  <p>
+                    Je projette d'intégrer une école d'ingénieurs en cybersécurité dès ma formation R&T terminée.
+                    La sécurité et le monde informatique étant deux thèmes que j'affectionne, c'est avec passion que
+                    je souhaite être le meilleur dans cette discipline.<br>
+                    Cliquez sur le bouton ci-dessous pour voir le diplôme qui pourrait m'intéresser.
+                  </p>
+                  <div class="white-button">
+                    <a target="_blank" href="https://www.esiee.fr/fr/formations/ingenieur/filieres/cybersecurite">Voir plus</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-image">
+                  <img src="assets/images/right-image.jpg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section about-me" data-section="section2">
+        <div class="container">
+          <div class="section-heading">
+            <h2>Portfolio</h2>
+            <div class="line-dec"></div>
+            <span
+              >Voici le portfolio des compétences technique que j'ai pu acqérir tout au long de mes études. </span
+            >
+          </div>
+          <div class="left-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/Pkt.png" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <h4>Réseaux</h4>
+                  <p>
+                    Voici un fichier Packet Tracer d'un projet que nous avons réalisé.
+                    Dans ce fichier se trouve une virtualisation d'en réseaux d'entreprise possédant différentes VLan, des serveur DHCP et DNS,
+                    un firewall ASA et un cahier des d'exigences à respecter.
+                  </p>
+                  <div class="white-button">
+                    <a target="_blank" href="assets/images/SAE_21_regnault-papot_1.pkt">Voir plus</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-text">
+                  <h4>Configuration de Serveurs sur Linux</h4>
+                  <p>
+                    Tout au long de l'année nous avons installé et parametré des serveurs Apache, DHCP, DNS, Asterisk, Windows Serveur.
+                  </p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-image">
+                  <img src="assets/images/shell.png" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="left-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/mq2.jpg" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <h4>Cybersécurité</h4>
+                  <p>
+                    Nous avons été sensibilisé à la cybersécurité. Nous nous sommes renseigner sur
+                    toutes les attaques actuelles et avons réalisé une vidéo de l'explication
+                    autour de l'attaque qu'on souhaitait.
+                  </p>
+                  <div class="white-button">
+                    <a target="_blank" href="https://youtu.be/Zi0g80Fo-go">Voir plus</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-text">
+                  <h4>Programmation</h4>
+                  <p>
+                    Je maitrise différents langages de programmations comme Python, PHP, SQL, HTML, CSS, C et C++.
+			Grâce aux nombreux projet que nous avons eu à réaliser, j'ai mettre cette compétence à profit, comme 
+			réaliser un site sécurisé grâce à PHP et SQL, réaliser différent outils shell ou applicatifs en Python,
+			ou encore réaliser des site WEB.
+                  </p>
+			<div class="white-button">
+                    <a target="_blank" href="https://github.com/Mojito06">Voir plus</a>
+                 </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-image">
+                  <img src="assets/images/pexels-pixabay-270632.jpg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="left-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/revu.png" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <h4>Web</h4>
+                  <p>
+                    Nous avons réalisé plusieur site Web, celui-ci par exemple ou encore celui en lien.
+                    Nous y avons appris l'HTML, le CSS, et le PHP.
+                  </p>
+                  <div class="white-button">
+                    <a target="_blank" href="http://isis.unice.fr/~pl105229/ext/site_WEB/Revusic.html">Voir plus</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+	   
+ 	   <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-text">
+                  <h4>Analyse de Signaux</h4>
+                  <p>
+                    Nous avons vu et étudié des signaux, avec leur caractéristiques (amplitude, frequence, phase, période...), leur spectres
+			d'amplitude, fréquentiel,... Et en apprenant à manipuler un signal en lui appliqant des filtres passe-haut, passe-bas et 
+			en évitant le phénomène de repliement spectrale sur les répliquesgrace au théorème de Shannon.
+			Nous avons aussi appris à traiter et a retravailler des sons en les échantillonant à une fréquence plus basse et en 
+			quantifiant le signal plus bas, tout en conservant la meilleure qualité possible. 
+			Un exemple de script python ci-joint.
+                  </p>
+                  <div class="white-button">
+                    <a target="_blank" href="assets/images/SAE22_PAPOT_REGNAULT_3A.zip">Voir plus</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-image">
+                  <img src="assets/images/25-1.jpg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="right-image">
+                  <img src="assets/images/Python.png" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="left-text">
+                  <h4>Python</h4>
+                  <p>
+                    De tout les langages de programmation, celui que je prefere et sur lequel je suis le plus à l'aise est deloin python.
+                    J'aime programmer dessus aussi bien pour le travail que pour le plaisir personnel.
+                  </p>
+                  <div class="white-button">
+                    <a target="_blank" href="https://github.com/Mojito06">Voir plus</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-text">
+                  <h4>Communication</h4>
+                  <p>
+                    Nous avons vu les différents de maitriser son image sur internet, chose primordiale si on veut se professionnaliser.
+                    Nous avons également fait du "Réseautage" en rentrant en relation avec des professionnels pour réaliser des infographies ou articles sur leur métier.
+                  </p>
+                  <div class="white-button">
+                    <a target="_blank" href="assets/images/com/">Voir plus</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-image">
+                  <img src="assets/images/com/article.png" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="left-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/Gantt.png" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <h4>Gestion de projets et d'équipes</h4>
+                  <p>
+                    Nous avons eu lors de notre formation des cours de gestion de projet. De plus, la réalisation d'un projet
+                    pour un client travaillant à ThalesAlienaSpace nous à permis de mettre nos compétences de gestion de projet à l'épreuve.
+                    Vous pouvez trouver notre diagramm de Gantt en cliquant.
+                  </p>
+                  <div class="white-button">
+                    <a target="_blank" href="https://docs.google.com/spreadsheets/d/1aVOAGwzEjaac9UWXDLzC89uSQlU8jJ5KmyYyTxkhBBE/edit#gid=0">Voir plus</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <section class="section my-services" data-section="section3">
+        <div class="container">
+          <div class="section-heading">
+            <h2>Mes aptitudes</h2>
+            <div class="line-dec"></div>
+            <span
+              >Voici les différentes qualités et aptitudes que je possède.</span
+            >
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="service-item">
+                <div class="second-service-icon service-icon"></div>
+                <h4>HTML5 &amp; CSS3</h4>
+                <p>
+                  J'ai découvert comment faire une page internet cette année, et j'ai très vite appris ce langage.<br>
+                  Je developpe actuellement des pages internet à mes heures perdues pour des particuliers ou juste pour le plaisir.<br> Je projette maintenant d'apprendre le JavaScript.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="service-item">
+                <div class="first-service-icon service-icon"></div>
+                <h4>Python</h4>
+                <p>
+                  Ayant appris Python en 2nd, je possède des facilités avec ce langage. La programmation est en domaine de réflexion et d'organisation que je trouve très
+                  intéressant, ainsi j'ai pu développer de nombreux bots de divers buts.
+                  Cela étant dit, je souhaite faire davantage de programmation à l'avenir.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="service-item">
+                <div class="third-service-icon service-icon"></div>
+                <h4>Je touche à tout</h4>
+                <p>
+                  Il est vrai qu'aimant savoir comment fonctionnent les domaines qui m'intéressent, il me plaît d'utiliser Photoshop, After Effect, ou encore d'autres outils
+                  en lien avec la cybersécurité tel que Metasploit, ...<br>
+                  Ma soif d'apprentissage n'a pas de limites.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="service-item">
+                <div class="fourth-service-icon service-icon"></div>
+                <h4>La bonne humeur</h4>
+                <p>
+                  Une bonne ambiance est la clé de la cohésion.
+                  Pour moi l'humour est très inportant dans tous types de relations, en restant toujours respectueux. <br>
+                  La vie est une chance de tous les jours, alors pourquoi ne pas la savourer ?
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section my-work" data-section="section4">
+        <div class="container">
+          <div class="section-heading">
+            <h2>Mes Passions</h2>
+            <div class="line-dec"></div>
+            <span
+              >Je possède plusieurs passions, certaines étant atypiques. Je trouve que nos passions définissent une partie de notre identité,
+              c'est pour cela que je vous en fais part avec joie. </span
+            >
+          </div>
+          <div class="row">
+            <div class="isotope-wrapper">
+              <form class="isotope-toolbar">
+                <label
+                  ><input
+                    type="radio"
+                    data-type="*"
+                    checked=""
+                    name="isotope-filter"
+                  />
+                  <span>Tous</span></label
+                >
+                <label
+                  ><input
+                    type="radio"
+                    data-type="people"
+                    name="isotope-filter"
+                  />
+                  <span>Informatique</span></label
+                >
+                <label
+                  ><input
+                    type="radio"
+                    data-type="nature"
+                    name="isotope-filter"
+                  />
+                  <span>Automobile</span></label
+                >
+                <label
+                  ><input
+                    type="radio"
+                    data-type="animals"
+                    name="isotope-filter"
+                  />
+                  <span>Divers</span></label
+                >
+              </form>
+              <div class="isotope-box">
+                <div class="isotope-item" data-type="nature">
+                  <figure class="snip1321">
+                    <img
+                      src="assets/images/38977370294_02c9104d98_b.jpg"
+                      alt="sq-sample26"
+                    />
+                    <figcaption>
+                      <h4>Les véhicules des la Seconde Guerre mondiale</h4>
+                      <span>Je suis passionné depuis mon enfance par la Seconde Guerre mondiale et plus particulièrement par ses véhicules.</span>
+                    </figcaption>
+                  </figure>
+                </div>
+
+                <div class="isotope-item" data-type="people">
+                  <figure class="snip1321">
+                    <img
+                      src="assets/images/markus-spiske-Skf7HxARcoc-unsplash.jpg"
+                      alt="sq-sample26"
+                    />
+                    <figcaption>
+                      <h4>Cybersécurité</h4>
+                      <span>La protection de tout notre monde informatique est bien plus qu'une passion, c'est une vocation.</span>
+                    </figcaption>
+                  </figure>
+                </div>
+
+                <div class="isotope-item" data-type="animals">
+                  <figure class="snip1321">
+                    <img
+                      src="assets/images/pexels-suvan-chowdhury-144428.jpg"
+                      alt="sq-sample26"
+                    />
+                    <figcaption>
+                      <h4>La Musique</h4>
+                      <span>La musique est ma meilleure amie, elle est toujours présente où que j'aille.
+                         D'ailleurs mon style musical se trouve plus dans la variété des années 80/90 (Pop, Rock, Métal,...), il se trouve que joue aussi de la guitare.</span>
+                    </figcaption>
+                  </figure>
+                </div>
+
+                <div class="isotope-item" data-type="people">
+                  <figure class="snip1321">
+                    <img
+                      src="assets/images/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg"
+                      alt="sq-sample26"
+                    />
+                    <figcaption>
+                      <h4>La création numérique</h4>
+                      <span>J'affectionne toute forme de création, mais la création de contenus numériques (pages Web, vidéos Youtube, bots,...)
+                        est vraiment mon premier hobby.</span>
+                    </figcaption>
+                  </figure>
+                </div>
+
+                <div class="isotope-item" data-type="nature">
+                  <figure class="snip1321">
+                    <img
+                      src="assets/images/pexels-alexgtacar-1592384.jpg"
+                      alt="sq-sample26"
+                    />
+                    <figcaption>
+                      <h4>L'automobile</h4>
+                      <span>Je suis passionné d'automobile depuis petit, aussi bien des vieilles mécaniques que des derniers bolides.
+                         Je suis bien déterminé à avoir une collection plus tard.</span>
+                    </figcaption>
+                  </figure>
+                </div>
+
+                <div class="isotope-item" data-type="animals">
+                  <figure class="snip1321">
+                    <img
+                      src="assets/images/pexels-francesco-ungaro-1525041.jpg"
+                      alt="sq-sample26"
+                    />
+                    <figcaption>
+                      <h4>Le Sport & la Nature</h4>
+                      <span>Aller faire du sport, me dépenser, et admirer la nature qui nous entoure est bien plus qu'une passion, c'est un besoin.</span>
+                    </figcaption>
+                  </figure>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section contact-me" data-section="section5">
+        <div class="container">
+          <div class="section-heading">
+            <h2>Contactez-moi</h2>
+            <div class="line-dec"></div>
+            <span
+              >Si mon profil vous intéresse, n'hésitez pas à utiliser les coordonnées ci-dessous afin de me contacter.</span
+            >
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="service-item">
+                <h4>Coordonnées</h4>
+                <p>
+                  <br>
+                  <b>E-mail :</b> louis.papot@etu.unice.fr
+                  <br><br>
+                  <b>Numéro de Téléphone :</b> 07.72.25.71.31
+
+
+                </p>
+              </div>
+            </div>
+
+        </div>
+      </section>
+
+    <!-- Scripts -->
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script src="assets/js/isotope.min.js"></script>
+    <script src="assets/js/owl-carousel.js"></script>
+    <script src="assets/js/lightbox.js"></script>
+    <script src="assets/js/custom.js"></script>
+    <script>
+      //according to loftblog tut
+      $(".main-menu li:first").addClass("active");
+
+      var showSection = function showSection(section, isAnimate) {
+        var direction = section.replace(/#/, ""),
+          reqSection = $(".section").filter(
+            '[data-section="' + direction + '"]'
+          ),
+          reqSectionPos = reqSection.offset().top - 0;
+
+        if (isAnimate) {
+          $("body, html").animate(
+            {
+              scrollTop: reqSectionPos
+            },
+            800
+          );
+        } else {
+          $("body, html").scrollTop(reqSectionPos);
+        }
+      };
+
+      var checkSection = function checkSection() {
+        $(".section").each(function() {
+          var $this = $(this),
+            topEdge = $this.offset().top - 80,
+            bottomEdge = topEdge + $this.height(),
+            wScroll = $(window).scrollTop();
+          if (topEdge < wScroll && bottomEdge > wScroll) {
+            var currentId = $this.data("section"),
+              reqLink = $("a").filter("[href*=\\#" + currentId + "]");
+            reqLink
+              .closest("li")
+              .addClass("active")
+              .siblings()
+              .removeClass("active");
+          }
+        });
+      };
+
+      $(".main-menu").on("click", "a", function(e) {
+        e.preventDefault();
+        showSection($(this).attr("href"), true);
+      });
+
+      $(window).scroll(function() {
+        checkSection();
+      });
+    </script>
+  </body>
+</html>
